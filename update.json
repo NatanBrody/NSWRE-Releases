@@ -1,0 +1,6 @@
+{
+  "version": "0.6.0",
+  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v0.6.0/NAVSPECWARGRU2_RadioEffects_Setup.exe",
+  "sha256": "141d5905929aceadfb791af846381ee0c485e172fd28ed2390d45f59f77ac89b",
+  "notes": "Adds the GitHub-backed initial install and update workflow."
+}
