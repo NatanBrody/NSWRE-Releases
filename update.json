@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v0.6.0/NAVSPECWARGRU2_RadioEffects_Setup.exe",
-  "sha256": "141d5905929aceadfb791af846381ee0c485e172fd28ed2390d45f59f77ac89b",
-  "notes": "Adds the GitHub-backed initial install and update workflow."
+  "version": "0.6.1",
+  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v0.6.1/NAVSPECWARGRU2_RadioEffects_Setup.exe",
+  "sha256": "809f6d22f2fa8a494c3c55e5a58461291440f0ba7ac393aa4f85b866e15699dc",
+  "notes": "Prevents voice activation from remaining disabled across radio release, bridge timeout, or TeamSpeak reconnection."
 }
