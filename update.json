@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
-  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v0.6.1/NAVSPECWARGRU2_RadioEffects_Setup.exe",
-  "sha256": "809f6d22f2fa8a494c3c55e5a58461291440f0ba7ac393aa4f85b866e15699dc",
-  "notes": "Prevents voice activation from remaining disabled across radio release, bridge timeout, or TeamSpeak reconnection."
+  "version": "0.6.2",
+  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v0.6.2/NAVSPECWARGRU2_RadioEffects_Setup.exe",
+  "sha256": "67fabf1256488ed8c74a4fcd21a2eec7ecd27c6baf6f39026fe0ecd22bc46c5c",
+  "notes": "Restores the stable pre-Thursday v0.4.1 TeamSpeak audio behavior while retaining only the GitHub auto-update and initial-install system."
 }
