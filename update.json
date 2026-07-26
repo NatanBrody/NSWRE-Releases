@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v1.0.0/NAVSPECWARGRU2_RadioEffects_Setup.exe",
-  "sha256": "9f7d30d16c28506bbffab669241d0e3c8c1980448d65dee8d7983771faa4ee84",
+  "sha256": "f2732bac1e51e0734a01efa43ad28bf192a33c1192d597009185e17deab64e6a",
   "notes": "NSWG2 EarPro and Radio Effects 1.0.0 with the stable online bootstrap installer, verified plugin downloads, EarPro simulation, and ACRE integration."
 }
