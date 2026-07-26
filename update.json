@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v1.0.0/NSWG2.Electronic.Ear.Pro.Setup.v1.0.0.exe",
-  "sha256": "c6af7e71145e4df7edb66eef48c15b0d79049ef4ceb81212d8b292522a9c2f9d",
-  "notes": "NSWG2 Electronic Ear Pro Setup v1.0.0. Fully offline, non-elevating TeamSpeak plugin installation. VB-CABLE must be installed separately from VB-Audio."
+  "sha256": "1db2eadd3528876765cdc5c912868795840e15cc8c3e00be0813ffc248a0341b",
+  "notes": "NSWG2 Electronic Ear Pro Setup v1.0.0. Self-contained offline installer with bundled TeamSpeak components and automatic installation of the bundled official VB-CABLE driver."
 }
