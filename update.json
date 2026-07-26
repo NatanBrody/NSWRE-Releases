@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v0.6.2/NAVSPECWARGRU2_RadioEffects_Setup.exe",
-  "sha256": "67fabf1256488ed8c74a4fcd21a2eec7ecd27c6baf6f39026fe0ecd22bc46c5c",
-  "notes": "Restores the stable pre-Thursday v0.4.1 TeamSpeak audio behavior while retaining only the GitHub auto-update and initial-install system."
+  "version": "1.0.0",
+  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v1.0.0/NAVSPECWARGRU2_RadioEffects_Setup.exe",
+  "sha256": "bd939757c993a3923e4b0cc335e7689c50271540a76af6d4df0e5ef87f0bdade",
+  "notes": "NSWG2 EarPro and Radio Effects 1.0.0 with the stable online bootstrap installer, verified plugin downloads, EarPro simulation, and ACRE integration."
 }
