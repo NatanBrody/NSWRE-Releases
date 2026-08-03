@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v1.0.1/NSWG2.Electronic.Ear.Pro.Setup.v1.0.1.exe",
-  "sha256": "3d4d37c349ff4a3d78a6b687e95d84f419f21469e2a4e395fc1efd6af5b04350",
-  "notes": "NSWG2 Electronic Ear Pro Setup v1.0.1. Adds non-blocking audio mixing, automatic capture/render recovery, optimized ACRE direct speech, and clear Peltor-style voice processing."
+  "version": "1.1.0",
+  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v1.1.0/NSWG2.Electronic.Ear.Pro.Setup.v1.1.0.exe",
+  "sha256": "ea6427428407fd5278894b80265801f5567556e8ef8270fea3c2c004b6275589",
+  "notes": "NSWG2 Electronic Ear Pro Setup v1.1.0. Adds HGU and GENTEX CEP hearing profiles, in-vehicle CEP controls, revised aviation attenuation, improved direct-speech handling, and the latest EarPro stability and audio-processing fixes."
 }
