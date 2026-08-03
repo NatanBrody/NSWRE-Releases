@@ -2,9 +2,9 @@
     "manifest_version":  "1",
     "release":  "1.1.0",
     "navspec_plugin_url":  "https://raw.githubusercontent.com/natanbrody/nswre-releases/main/files/navspecwargru2_re_win64.dll",
-    "navspec_plugin_sha256":  "c000fee6c4a231765bdc2bfa9aa885027c8fc2ad0e0606ba94df0b7553b24645",
+    "navspec_plugin_sha256":  "eca08c108effa6bff790a43d73d226bd8d25bdc00f88abc1d9c2972c4fffe191",
     "acre_plugin_url":  "https://raw.githubusercontent.com/natanbrody/nswre-releases/main/files/acre2_win64.dll",
-    "acre_plugin_sha256":  "e0c0e69894eeaaae335e740a1de2c4f15eb1d068721ef27819e3569d763de07b",
+    "acre_plugin_sha256":  "06b55f5cddc403311efb8def4e83198d23f42e34fa8ef2c6130c0da32655da38",
     "vb_cable_url":  "https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip",
     "vb_cable_sha256":  "b950e39f01af1d04ea623c8f6d8eb9b6ea5c477c637295fabf20631c85116bfb"
 }

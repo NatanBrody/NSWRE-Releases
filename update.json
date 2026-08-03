@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
   "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v1.1.0/NSWG2.Electronic.Ear.Pro.Setup.v1.1.0.exe",
-  "sha256": "ea6427428407fd5278894b80265801f5567556e8ef8270fea3c2c004b6275589",
+  "sha256": "e2ac2944049190288e4d452b996ec849191a781e86f9578d16d06931cdf3386f",
   "notes": "NSWG2 Electronic Ear Pro Setup v1.1.0. Adds HGU and GENTEX CEP hearing profiles, in-vehicle CEP controls, revised aviation attenuation, improved direct-speech handling, and the latest EarPro stability and audio-processing fixes."
 }
