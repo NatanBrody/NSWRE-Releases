@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v2.0.0/NSWG2%20Electronic%20Ear%20Pro%20Setup%20v2.0.0.exe",
+  "installer": "https://github.com/NatanBrody/NSWRE-Releases/releases/download/v2.0.0/NSWG2.Electronic.Ear.Pro.Setup.v2.0.0.exe",
   "sha256": "cd1bfece471661a68837c6ff93e6ed6decaacfa83eff69e4f54e59c0ba228956",
   "notes": "NSWG2 Electronic Ear Pro Setup v2.0.0. Uses stock ACRE 2.14.0.1064 addon behavior while retaining only the Game Over Radio audio bridge, Peltor DSP, and required PTT/VAD handling."
 }
