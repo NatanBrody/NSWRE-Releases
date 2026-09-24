@@ -1,10 +1,10 @@
-﻿{
-    "manifest_version":  "1",
-    "release":  "1.3.0",
-    "navspec_plugin_url":  "https://raw.githubusercontent.com/natanbrody/nswre-releases/main/files/navspecwargru2_re_win64.dll",
-    "navspec_plugin_sha256":  "80dd48a1fc5601d922d9302e2855e9a46d2843d48eec391923d96ca0fbb33433",
-    "acre_plugin_url":  "https://raw.githubusercontent.com/natanbrody/nswre-releases/main/files/acre2_win64.dll",
-    "acre_plugin_sha256":  "290ec59e23b127970d3b64df993a484439fc8c98ccb2175776991aef12bd1bcc",
-    "vb_cable_url":  "https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip",
-    "vb_cable_sha256":  "b950e39f01af1d04ea623c8f6d8eb9b6ea5c477c637295fabf20631c85116bfb"
+{
+  "manifest_version": "1",
+  "release": "2.0.0",
+  "navspec_plugin_url": "https://raw.githubusercontent.com/natanbrody/nswre-releases/main/files/navspecwargru2_re_win64.dll",
+  "navspec_plugin_sha256": "1db0b062a073d53beb750f10f19aa72b7ac2cc8c3a971a7ae512cda5ff659f76",
+  "acre_plugin_url": "https://raw.githubusercontent.com/natanbrody/nswre-releases/main/files/acre2_win64.dll",
+  "acre_plugin_sha256": "02af64b519886ed97d2eb0939909181de228e700419665e6befbca16fd7c6d4b",
+  "vb_cable_url": "https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip",
+  "vb_cable_sha256": "b950e39f01af1d04ea623c8f6d8eb9b6ea5c477c637295fabf20631c85116bfb"
 }
